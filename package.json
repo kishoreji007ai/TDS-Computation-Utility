@@ -1,0 +1,13 @@
+{
+  "name": "tds-audit-utility-desktop",
+  "version": "1.0.0",
+  "description": "Desktop packaging for the TDS Automated Computation & Audit Utility",
+  "private": true,
+  "scripts": {
+    "tauri": "tauri",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.1.0"
+  }
+}
